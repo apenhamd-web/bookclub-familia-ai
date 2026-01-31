@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bookclub Familia AI FMM//PT-BR//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:76bbf4a6-42a0-4f99-928e-2808a0fc0473@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Suite Tóquio
+DTSTART;TZID=America/Manaus:20260131T160000
+DTEND;TZID=America/Manaus:20260131T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Suite Tóquio — Giovana Madalosso\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4058fdc-7777-496e-89b3-c93f67ab8cc6@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Retorno a Haifa
+DTSTART;TZID=America/Manaus:20260228T160000
+DTEND;TZID=America/Manaus:20260228T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Retorno a Haifa — Ghassan Kanafani\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b011cf2a-c109-4d25-bdc9-000b18c47722@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | A Cabeça do Santo
+DTSTART;TZID=America/Manaus:20260329T160000
+DTEND;TZID=America/Manaus:20260329T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:A Cabeça do Santo — Socorro Acioli\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:109d34b3-5ec3-4643-a5d1-4047a1be7824@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Torto Arado
+DTSTART;TZID=America/Manaus:20260425T160000
+DTEND;TZID=America/Manaus:20260425T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Torto Arado — Itamar Vieira Junior\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:220e0bf2-cc3e-4040-ab24-76adb79caf9c@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Vidas Secas
+DTSTART;TZID=America/Manaus:20260531T160000
+DTEND;TZID=America/Manaus:20260531T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Vidas Secas — Graciliano Ramos\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b83662f-705d-4ae2-99f9-f40c0431e55c@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | A Revolução dos Bichos
+DTSTART;TZID=America/Manaus:20260627T160000
+DTEND;TZID=America/Manaus:20260627T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:A Revolução dos Bichos — George Orwell\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e10fd47-5bea-414d-ba96-67ebf4bc4611@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Relato de um Certo Oriente
+DTSTART;TZID=America/Manaus:20260726T160000
+DTEND;TZID=America/Manaus:20260726T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Relato de um Certo Oriente — Milton Hatoum\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:30b68951-a198-4db1-b9a4-b5963c2d1325@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | (A definir)
+DTSTART;TZID=America/Manaus:20260829T160000
+DTEND;TZID=America/Manaus:20260829T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Tema/Livro a definir (curadoria coletiva)\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28f59835-d848-498f-b2d4-32590a06a668@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | (A definir)
+DTSTART;TZID=America/Manaus:20260927T160000
+DTEND;TZID=America/Manaus:20260927T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Tema/Livro a definir (curadoria coletiva)\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e12d86d5-2f07-4316-838a-c7d99e53b094@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | (A definir)
+DTSTART;TZID=America/Manaus:20261031T160000
+DTEND;TZID=America/Manaus:20261031T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Tema/Livro a definir (curadoria coletiva)\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f4586929-f2ad-4bd4-8ab6-5caa618d0300@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Um Defeito de Cor (Consciência Negra)
+DTSTART;TZID=America/Manaus:20261129T160000
+DTEND;TZID=America/Manaus:20261129T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Um Defeito de Cor — Ana Maria Gonçalves (encontro de Consciência Negra)\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a279777-0be7-426e-9b52-6a0dee7e58ee@bookclub-familia-ai
+DTSTAMP:20260131T161554Z
+SUMMARY:Bookclub – Família AI | Encerramento 2026 + Livros 2027
+DTSTART;TZID=America/Manaus:20261227T160000
+DTEND;TZID=America/Manaus:20261227T180000
+LOCATION:https://zoom.us/j/1234567890 (senha: AI-Bookclub2026)
+DESCRIPTION:Encerramento 2026 e definição da lista de 2027\n\nHorário: 4:00–6:00 PM (Manaus) | 1:00–3:00 PM (Los Angeles)\nZoom: https://zoom.us/j/1234567890\nSenha: AI-Bookclub2026\n\nRitual do clube: 1 citação + 1 pergunta por pessoa.
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 7 dias
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub amanhã
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Lembrete: Bookclub em 1 hora
+END:VALARM
+END:VEVENT
+END:VCALENDAR
